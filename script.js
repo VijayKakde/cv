@@ -177,7 +177,7 @@ I love building intelligent solutions using Python, Data Science, and Machine Le
 
 🚀 Currently exploring: Advanced ML algorithms, Deep Learning, and Data Analytics
 🎯 Goal: To create impactful AI solutions that solve real-world problems
-💡 Interests: Machine Learning, Data Science, Web Development, and Open Source
+💡 Interests: Machine Learning, Data Science, Web Development.
 
 `;
         this.typeWriter(homeText, 5);
@@ -200,15 +200,15 @@ I love building intelligent solutions using Python, Data Science, and Machine Le
     "languages":    ["English", "Hindi", "Marathi"],
     "skills":       [
                         "Python", 
+                        "HTML",
+                        "CSS",
+                        "JS",
                         "Machine Learning", 
                         "Data Science", 
-                        "ReactJS",
-                        "Tailwind CSS",
-                        "Vite + TS",
                         "Problem Solving",
                         "Power BI"
                     ],
-    "interests":    ["AI", "Deep Learning", "Web Dev", "Cyber UI Design"],
+    "interests":    ["AI", "Deep Learning", "Web Dev"],
     "experience":   "Data Analyst Intern - Shubhasairaj Infotech (Dec 2024 - Jan 2025)"
 }
 
@@ -249,20 +249,15 @@ I love building intelligent solutions using Python, Data Science, and Machine Le
    ➤ Technologies: Python, Scikit-learn, Pandas, NumPy, Flask
    ➤ GitHub: https://github.com/VijayKakde/Bangalore-House-Price-Prediction-
 
-❤️  Heart Disease Prediction
-   ➤ Predict heart disease risk using various ML algorithms
-   ➤ Technologies: Python, ML Algorithms, Data Visualization
-   ➤ GitHub: https://github.com/VijayKakde/Heart_Disease_Prediction
+🔗 Portfolio
+   ➤ A personal Portfolio 
+   ➤ Technologies: HTML, CSS, JS
+   ➤ GitHub: https://github.com/VijayKakde/cv.git
 
-🌱 Plant Disease Prediction
-   ➤ Detect plant leaf diseases using Machine Learning and Deep Learning
-   ➤ Technologies: Python, TensorFlow, CNN, Image Processing
-   ➤ GitHub: https://github.com/VijayKakde/Plant_disease_prediction
-
-📊 Data Analysis Projects
-   ➤ Various data analysis and visualization projects
-   ➤ Technologies: Python, Pandas, Matplotlib, Power BI
-   ➤ Focus: Extracting insights from complex datasets
+🌱 GreenTech
+   ➤ Users can upload images of trash to earn reward points
+   ➤ Technologies: HTML, CSS, JS
+   ➤ GitHub: https://github.com/VijayKakde/greentech.git
 
 🔗 All projects are available on my GitHub profile with detailed documentation
    and implementation guides.
@@ -288,7 +283,6 @@ I love building intelligent solutions using Python, Data Science, and Machine Le
 │  📱 PHONE            : +91-8857941208              │
 │  🔗 GITHUB           : github.com/VijayKakde       │
 │  💼 LINKEDIN         : linkedin.com/in/vijaykakde  │
-│  🌐 PORTFOLIO        : portfoliocv-1l1.pages.dev   │
 ╰────────────────────────────────────────────────────╯
 
 >>> Awaiting message input...
