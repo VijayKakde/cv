@@ -1,5 +1,5 @@
-🧠 Vijay's Terminal Portfolio
-⚡ Overview
+# Vijay's Terminal Portfolio
+# Overview
 
 This is my personal portfolio website built using HTML, CSS, and JavaScript, designed to look and feel like a terminal interface.
 Users can type commands such as home, about, projects, or contact to navigate and explore different sections — just like using a real command-line shell.
