@@ -34,7 +34,7 @@ I’m passionate about machine learning, deep learning, NLP, and data-driven pro
 My portfolio represents how I see technology — clean, logical, and interactive.
 
 📫 Contact:
-📧 Email: your.email@example.com
+📧 Email: vijaykumarkakde77@gmail.com
 🔗 LinkedIn: linkedin.com/in/vijaykakde
 💻 GitHub: github.com/vijaykumar kakde
 
